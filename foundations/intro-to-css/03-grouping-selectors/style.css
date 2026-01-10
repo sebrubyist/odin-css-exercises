@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.left, .right {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.left {
+  color: white;
+  background-color: black;
+}
+
+.right {
+  background-color: hsl(59, 95%, 60%);
+}
